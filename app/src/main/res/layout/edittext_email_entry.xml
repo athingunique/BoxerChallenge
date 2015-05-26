@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This EditText View is displayed in a DialogFragment, allowing the user to input text of an email address -->
+<EditText
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edittext_email_entry_dialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:inputType="textEmailAddress"
+    android:hint="@string/edittext_hint_enter_email"
+    />

@@ -1,0 +1,44 @@
+<resources>
+    <!-- App Meta -->
+    <string name="app_name">BoxerChallenge</string>
+
+
+    <!-- Menus -->
+    <!-- Main -->
+    <string name="menu_action_add">Add</string>
+
+
+    <!-- Dialog Text -->
+    <!-- Buttons -->
+    <string name="dialog_action_cancel">Cancel</string>
+
+    <!-- Contents -->
+    <string name="dialog_message_duplicate">That e-mail is already in the list!</string>
+
+    <!-- Title -->
+    <string name="dialog_title_duplicate">Error adding e-mail</string>
+
+    <!-- EditText hints -->
+    <string name="edittext_hint_enter_email">Enter an e-mail address</string>
+
+
+    <!-- "Random" emails (notably not alphabetized) -->
+    <string-array name="random_emails">
+        <item>"evan@gmail.com"</item>
+        <item>"steve@hotmail.com"</item>
+        <item>"mike@live.com"</item>
+        <item>"mark@yahoo.com"</item>
+        <item>"jim@gmail.com"</item>
+        <item>"bill@mailinator.com"</item>
+        <item>"joe@aol.com"</item>
+        <item>"john@bluehost.com"</item>
+        <item>"sue@getboxer.com"</item>
+        <item>"jill@rochester.edu"</item>
+        <item>"jenny@u.rochester.edu"</item>
+        <item>"alice@e13engineering.com"</item>
+        <item>"elizabeth@mail.com"</item>
+        <item>"kate@lycos.com"</item>
+        <item>"kim@icloud.com"</item>
+    </string-array>
+
+</resources>

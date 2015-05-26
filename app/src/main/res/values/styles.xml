@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Theme set to Theme.AppCompat.Light per spec -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light" />
+
+</resources>
